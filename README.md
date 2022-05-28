@@ -1,4 +1,3 @@
-#ECG-image-Analysis-for-Arrhythmia-Classification-Using-Deep-Learning
 ECG image Analysis for Arrhythmia Classification Using Deep Learning
 
 To run the application follow the steps:
